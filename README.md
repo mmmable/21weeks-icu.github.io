@@ -1,13 +1,3 @@
-<script>
-var _hmt = _hmt || [];
-(function() {
-  var hm = document.createElement("script");
-  hm.src = "https://hm.baidu.com/hm.js?46c2ecc705b38756cd80941ce99886ef";
-  var s = document.getElementsByTagName("script")[0]; 
-  s.parentNode.insertBefore(hm, s);
-})();
-</script>
-
 # 21weeks.ICU
 
 `21weeks.ICU` 代指 “985211”：晚 9 早 8 每周 5 天，21 周 1 学期。学习 985211，生病 ICU。在 SYSU，这是学生之间的一种自嘲的说法，意思是按照 985211 的模式学习，在期末的考试大概率就要住 ICU 了（需要指出 18 年 1 月考试周期间共出动了 9 趟救护车）。
